@@ -1,5 +1,4 @@
 ﻿absl-py==0.13.0
-aiocv==0.0.25
 aiohttp==3.7.4.post0
 altgraph==0.17
 asgiref==3.4.1
